@@ -9,5 +9,5 @@ I like systems learning, human-computer interaction, and System engineering deve
 
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
-- 👯 I’m looking to collaborate on Opensourced Projects
+-
 - 📫 How to reach me: [Instagram](https://www.instagram.com/abdu.lkhaer/)
